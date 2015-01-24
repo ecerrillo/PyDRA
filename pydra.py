@@ -25,7 +25,7 @@ sip.setapi('QString', 2)
 
 # ====================================================================
 
-import os, sys, pylab, tempfile, imageviewer, icons_rc, methods,csv_arica
+import os, sys, pylab, tempfile, imageviewer, icons_rc, methods
 import pca,satur,ds,trfilter,grayband
 from numpy import *
 from scipy import misc,ndimage
