@@ -17,7 +17,7 @@ PyDRA
 
 2. Installation and dependencies
  
-  As long as you can manage to solve the dependencies you will be able to run PyDRA in any platform. At the current time it has been executed in Mac OS X (10.8+) and Ubuntu. We are far from distribute a standalone version, so an additional effort should be done to get all dependencies working.
+  As long as you can manage to solve the dependencies you will be able to run PyDRA in any platform. At the current time it has been executed in Mac OS X (10.8+) and Ubuntu. We are far from distribute a standalone version, so an additional effort should be done to get all dependencies installed.
 
   In order to install PyDRA you will need to install the followings libraries (the list might not be definitive, and not listed libraries might be required):
 
