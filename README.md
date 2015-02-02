@@ -21,13 +21,13 @@ PyDRA
 
   In order to install PyDRA you will need to install the followings libraries (the list might not be definitive, and not listed libraries might be required):
 
-    Python (2.7) and the following libraries: Numpy,Scipy, PyQt4 (maybe PyQt5), formlayout, scikit-learn, reportlab, gdal, pillow (former PIL), pylab, pyqtgraph
+      - Python (2.7) and the following libraries: Numpy, Scipy, PyQt4 (maybe PyQt5), formlayout, scikit-learn, reportlab, gdal, pillow (former PIL), pylab, pyqtgraph
 
-    OpenCV (with Python support)
+      - OpenCV (with Python support)
 
-    gphoto2 (optional)
+      - gphoto2 (optional)
 
-    dcraw
+      - dcraw
 
 
 3. Running PyDRA
